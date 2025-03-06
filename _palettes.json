@@ -1,0 +1,51 @@
+{
+    "nextPaletteID": 2,
+    "palettes": {
+        "custom0": {
+            "id": "custom0",
+            "name": "ELIAS EMPRESAS",
+            "colors": [
+                "#000000",
+                "#FF0000",
+                "#FF0000",
+                "#FF0000",
+                "#FF0000",
+                "#FF0000",
+                "#FF0000",
+                "#FF0000",
+                "#FF0000",
+                "#FF0000",
+                "#FF0000",
+                "#FF0000",
+                "#FF0000",
+                "#FF0000",
+                "#FF0000",
+                "#FF0000"
+            ],
+            "custom": true
+        },
+        "custom1": {
+            "id": "custom1",
+            "name": "ARCEIDE",
+            "colors": [
+                "#000000",
+                "#FFFFFF",
+                "#FF0000",
+                "#FF93C4",
+                "#FF8135",
+                "#FFF609",
+                "#249CA3",
+                "#78DC52",
+                "#003FAD",
+                "#87F2FF",
+                "#8E2EC4",
+                "#A4839F",
+                "#5C406c",
+                "#E5CDC4",
+                "#91463d",
+                "#000000"
+            ],
+            "custom": true
+        }
+    }
+}
